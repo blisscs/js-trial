@@ -1,8 +1,8 @@
 var petDog = 'Rex';
 var petCat = 'Pepper';
 
-console.log("My pet dog's name is: ", petDog);
-console.log("My pet cat's name is: ", petCat);
+console.log("My pet dog's name is: " + petDog);
+console.log("My pet cat's name is: " + petCat);
 
 var catSound = "purr";
 var dogSound = "woof";
